@@ -1,14 +1,7 @@
-package tree;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-/**
- * @authors: 
- * ID: 302995055, Name: Michelle Sabato, User: sabato 
- * ID: 302732425, Name: Daniela Fishman, User: danielaf 
- **/
 
 /**
  *
